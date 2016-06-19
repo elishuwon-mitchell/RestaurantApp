@@ -21,40 +21,40 @@ class SecondViewController: FirstViewController{
     }
     
      override func insertDishes(){
-        
+        dishArr.removeAll();
         let dish1 = Dish(
             day: "Monday",
-            photo: UIImage(named: "mondayDish"),
+            photo: UIImage(named: "fishMonday"),
             description: "Grilled salmon served with brown rice, kale in coconut milk, lentil balls, and fresh garden salad."
         );
         
         let dish2 = Dish(
             day: "Tuesday",
-            photo: UIImage(named: "defaultDish"),
+            photo: UIImage(named: "fishTuesday"),
             description: "Grilled tuna served with gluten free pasta salad, sauteéd asparagua, lentila balls, and fresh garden salad."
         );
         
         let dish3 = Dish(
             day: "Wednesday",
-            photo: UIImage(named: "defaultDish"),
+            photo: UIImage(named: "default"),
             description: "Grillled mahi served with brown rice, stir fried broccoli / carrots / purple cabbage, lentil balls, and fresh garden salad."
         );
         
         let dish4 = Dish(
             day: "Thursday",
-            photo: UIImage(named: "thursdayDish"),
+            photo: UIImage(named: "default"),
             description: "Grilled salmon served with brown rice, steamed broccoli and carrots, lentil balls, and fresh garden salad."
         );
         
         let dish5 = Dish(
             day: "Friday",
-            photo: UIImage(named: "defaultDish"),
+            photo: UIImage(named: "fishFriday"),
             description: "Grilled tuna served with brown rice, curry cabbage, lentil balls, and fresh garden salad."
         );
         
         let dish6 = Dish(
             day: "Saturday",
-            photo: UIImage(named: "defaultDish"),
+            photo: UIImage(named: "default"),
             description: "Grilled mahi served with spinach rice, collard greens in coconut milk, lentil balls, and fresh garden salad."
         );
         
