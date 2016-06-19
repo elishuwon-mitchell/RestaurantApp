@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Restaurant App.xcodeproj">
+      location = "self:/Users/exm3029/eli/RestaurantApp/src/Restaurant App/Ital In Paradise.xcodeproj">
    </FileRef>
 </Workspace>

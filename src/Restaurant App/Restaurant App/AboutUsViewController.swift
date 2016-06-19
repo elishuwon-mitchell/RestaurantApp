@@ -15,7 +15,7 @@ class AboutUsViewController: UIViewController {
         super.viewDidLoad()
         if self.revealViewController() != nil {
             sideMenuItem.target = self.revealViewController();
-            sideMenuItem.action = "revealToggle:";
+            sideMenuItem.action = #selector(SWRevealViewController.revealToggle(_:));
             self.view.addGestureRecognizer(self.revealViewController().panGestureRecognizer());
         }
     }

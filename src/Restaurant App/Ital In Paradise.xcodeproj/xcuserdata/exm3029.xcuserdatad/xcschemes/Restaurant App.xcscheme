@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "464AADFC1D10C89A00961B45"
-               BuildableName = "Restaurant App.app"
-               BlueprintName = "Restaurant App"
-               ReferencedContainer = "container:Restaurant App.xcodeproj">
+               BuildableName = "Ital In Paradise.app"
+               BlueprintName = "Ital In Paradise"
+               ReferencedContainer = "container:Ital In Paradise.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "464AAE121D10C89A00961B45"
-               BuildableName = "Restaurant AppTests.xctest"
-               BlueprintName = "Restaurant AppTests"
-               ReferencedContainer = "container:Restaurant App.xcodeproj">
+               BuildableName = "Ital In Paradise.xctest"
+               BlueprintName = "Ital In ParadiseTests"
+               ReferencedContainer = "container:Ital In Paradise.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "464AAE1D1D10C89A00961B45"
-               BuildableName = "Restaurant AppUITests.xctest"
-               BlueprintName = "Restaurant AppUITests"
-               ReferencedContainer = "container:Restaurant App.xcodeproj">
+               BuildableName = "Ital In Paradise.xctest"
+               BlueprintName = "Ital In ParadiseUITests"
+               ReferencedContainer = "container:Ital In Paradise.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "464AADFC1D10C89A00961B45"
-            BuildableName = "Restaurant App.app"
-            BlueprintName = "Restaurant App"
-            ReferencedContainer = "container:Restaurant App.xcodeproj">
+            BuildableName = "Ital In Paradise.app"
+            BlueprintName = "Ital In Paradise"
+            ReferencedContainer = "container:Ital In Paradise.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "464AADFC1D10C89A00961B45"
-            BuildableName = "Restaurant App.app"
-            BlueprintName = "Restaurant App"
-            ReferencedContainer = "container:Restaurant App.xcodeproj">
+            BuildableName = "Ital In Paradise.app"
+            BlueprintName = "Ital In Paradise"
+            ReferencedContainer = "container:Ital In Paradise.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "464AADFC1D10C89A00961B45"
-            BuildableName = "Restaurant App.app"
-            BlueprintName = "Restaurant App"
-            ReferencedContainer = "container:Restaurant App.xcodeproj">
+            BuildableName = "Ital In Paradise.app"
+            BlueprintName = "Ital In Paradise"
+            ReferencedContainer = "container:Ital In Paradise.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

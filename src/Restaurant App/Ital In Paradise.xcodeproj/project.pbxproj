@@ -56,17 +56,17 @@
 		460F9B921D12368D00EBACB0 /* SideMenuTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenuTabBarController.swift; sourceTree = "<group>"; };
 		460F9B941D123B3800EBACB0 /* AboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 		460F9B961D12432F00EBACB0 /* MiscellaneousViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiscellaneousViewController.swift; sourceTree = "<group>"; };
-		464AADFD1D10C89A00961B45 /* Restaurant App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Restaurant App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		464AADFD1D10C89A00961B45 /* Ital In Paradise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ital In Paradise.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		464AAE001D10C89A00961B45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		464AAE021D10C89A00961B45 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		464AAE041D10C89A00961B45 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		464AAE071D10C89A00961B45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		464AAE0C1D10C89A00961B45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		464AAE0E1D10C89A00961B45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		464AAE131D10C89A00961B45 /* Restaurant AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Restaurant AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		464AAE131D10C89A00961B45 /* Ital In Paradise.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ital In Paradise.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		464AAE171D10C89A00961B45 /* Restaurant_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_AppTests.swift; sourceTree = "<group>"; };
 		464AAE191D10C89A00961B45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		464AAE1E1D10C89A00961B45 /* Restaurant AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Restaurant AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		464AAE1E1D10C89A00961B45 /* Ital In Paradise.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ital In Paradise.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		464AAE221D10C89A00961B45 /* Restaurant_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_AppUITests.swift; sourceTree = "<group>"; };
 		464AAE241D10C89A00961B45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		464AAE301D10CBDA00961B45 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -105,9 +105,9 @@
 		464AADF41D10C89A00961B45 = {
 			isa = PBXGroup;
 			children = (
-				464AADFF1D10C89A00961B45 /* Restaurant App */,
-				464AAE161D10C89A00961B45 /* Restaurant AppTests */,
-				464AAE211D10C89A00961B45 /* Restaurant AppUITests */,
+				464AADFF1D10C89A00961B45 /* Ital In Paradise */,
+				464AAE161D10C89A00961B45 /* Ital In Paradise AppTests */,
+				464AAE211D10C89A00961B45 /* Ital in Paradise AppUITests */,
 				464AADFE1D10C89A00961B45 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -115,14 +115,14 @@
 		464AADFE1D10C89A00961B45 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				464AADFD1D10C89A00961B45 /* Restaurant App.app */,
-				464AAE131D10C89A00961B45 /* Restaurant AppTests.xctest */,
-				464AAE1E1D10C89A00961B45 /* Restaurant AppUITests.xctest */,
+				464AADFD1D10C89A00961B45 /* Ital In Paradise.app */,
+				464AAE131D10C89A00961B45 /* Ital In Paradise.xctest */,
+				464AAE1E1D10C89A00961B45 /* Ital In Paradise.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		464AADFF1D10C89A00961B45 /* Restaurant App */ = {
+		464AADFF1D10C89A00961B45 /* Ital In Paradise */ = {
 			isa = PBXGroup;
 			children = (
 				46EC7D5F1D122F8600615F96 /* Supporting Files */,
@@ -145,24 +145,27 @@
 				4609C2521D171C95009DBE10 /* Assets.xcassets */,
 				464AAE301D10CBDA00961B45 /* Images.xcassets */,
 			);
+			name = "Ital In Paradise";
 			path = "Restaurant App";
 			sourceTree = "<group>";
 		};
-		464AAE161D10C89A00961B45 /* Restaurant AppTests */ = {
+		464AAE161D10C89A00961B45 /* Ital In Paradise AppTests */ = {
 			isa = PBXGroup;
 			children = (
 				464AAE171D10C89A00961B45 /* Restaurant_AppTests.swift */,
 				464AAE191D10C89A00961B45 /* Info.plist */,
 			);
+			name = "Ital In Paradise AppTests";
 			path = "Restaurant AppTests";
 			sourceTree = "<group>";
 		};
-		464AAE211D10C89A00961B45 /* Restaurant AppUITests */ = {
+		464AAE211D10C89A00961B45 /* Ital in Paradise AppUITests */ = {
 			isa = PBXGroup;
 			children = (
 				464AAE221D10C89A00961B45 /* Restaurant_AppUITests.swift */,
 				464AAE241D10C89A00961B45 /* Info.plist */,
 			);
+			name = "Ital in Paradise AppUITests";
 			path = "Restaurant AppUITests";
 			sourceTree = "<group>";
 		};
@@ -179,9 +182,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		464AADFC1D10C89A00961B45 /* Restaurant App */ = {
+		464AADFC1D10C89A00961B45 /* Ital In Paradise */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 464AAE271D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Restaurant App" */;
+			buildConfigurationList = 464AAE271D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Ital In Paradise" */;
 			buildPhases = (
 				464AADF91D10C89A00961B45 /* Sources */,
 				464AADFA1D10C89A00961B45 /* Frameworks */,
@@ -191,14 +194,14 @@
 			);
 			dependencies = (
 			);
-			name = "Restaurant App";
+			name = "Ital In Paradise";
 			productName = "Restaurant App";
-			productReference = 464AADFD1D10C89A00961B45 /* Restaurant App.app */;
+			productReference = 464AADFD1D10C89A00961B45 /* Ital In Paradise.app */;
 			productType = "com.apple.product-type.application";
 		};
-		464AAE121D10C89A00961B45 /* Restaurant AppTests */ = {
+		464AAE121D10C89A00961B45 /* Ital In ParadiseTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 464AAE2A1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Restaurant AppTests" */;
+			buildConfigurationList = 464AAE2A1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Ital In ParadiseTests" */;
 			buildPhases = (
 				464AAE0F1D10C89A00961B45 /* Sources */,
 				464AAE101D10C89A00961B45 /* Frameworks */,
@@ -209,14 +212,14 @@
 			dependencies = (
 				464AAE151D10C89A00961B45 /* PBXTargetDependency */,
 			);
-			name = "Restaurant AppTests";
+			name = "Ital In ParadiseTests";
 			productName = "Restaurant AppTests";
-			productReference = 464AAE131D10C89A00961B45 /* Restaurant AppTests.xctest */;
+			productReference = 464AAE131D10C89A00961B45 /* Ital In Paradise.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		464AAE1D1D10C89A00961B45 /* Restaurant AppUITests */ = {
+		464AAE1D1D10C89A00961B45 /* Ital In ParadiseUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 464AAE2D1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Restaurant AppUITests" */;
+			buildConfigurationList = 464AAE2D1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Ital In ParadiseUITests" */;
 			buildPhases = (
 				464AAE1A1D10C89A00961B45 /* Sources */,
 				464AAE1B1D10C89A00961B45 /* Frameworks */,
@@ -227,9 +230,9 @@
 			dependencies = (
 				464AAE201D10C89A00961B45 /* PBXTargetDependency */,
 			);
-			name = "Restaurant AppUITests";
+			name = "Ital In ParadiseUITests";
 			productName = "Restaurant AppUITests";
-			productReference = 464AAE1E1D10C89A00961B45 /* Restaurant AppUITests.xctest */;
+			productReference = 464AAE1E1D10C89A00961B45 /* Ital In Paradise.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -244,6 +247,7 @@
 				TargetAttributes = {
 					464AADFC1D10C89A00961B45 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 7VCTFYV8J6;
 					};
 					464AAE121D10C89A00961B45 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -255,7 +259,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 464AADF81D10C89A00961B45 /* Build configuration list for PBXProject "Restaurant App" */;
+			buildConfigurationList = 464AADF81D10C89A00961B45 /* Build configuration list for PBXProject "Ital In Paradise" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -268,9 +272,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				464AADFC1D10C89A00961B45 /* Restaurant App */,
-				464AAE121D10C89A00961B45 /* Restaurant AppTests */,
-				464AAE1D1D10C89A00961B45 /* Restaurant AppUITests */,
+				464AADFC1D10C89A00961B45 /* Ital In Paradise */,
+				464AAE121D10C89A00961B45 /* Ital In ParadiseTests */,
+				464AAE1D1D10C89A00961B45 /* Ital In ParadiseUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -346,12 +350,12 @@
 /* Begin PBXTargetDependency section */
 		464AAE151D10C89A00961B45 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 464AADFC1D10C89A00961B45 /* Restaurant App */;
+			target = 464AADFC1D10C89A00961B45 /* Ital In Paradise */;
 			targetProxy = 464AAE141D10C89A00961B45 /* PBXContainerItemProxy */;
 		};
 		464AAE201D10C89A00961B45 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 464AADFC1D10C89A00961B45 /* Restaurant App */;
+			target = 464AADFC1D10C89A00961B45 /* Ital In Paradise */;
 			targetProxy = 464AAE1F1D10C89A00961B45 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -464,12 +468,16 @@
 		464AAE281D10C89A00961B45 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Restaurant App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Restaurant-App";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Ital-In-Paradise";
+				PRODUCT_NAME = "Ital In Paradise";
+				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Restaurant App/Restaurant App-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -479,12 +487,16 @@
 		464AAE291D10C89A00961B45 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Restaurant App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Restaurant-App";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Ital-In-Paradise";
+				PRODUCT_NAME = "Ital In Paradise";
+				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Restaurant App/Restaurant App-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -497,8 +509,8 @@
 				INFOPLIST_FILE = "Restaurant AppTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Restaurant-AppTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Restaurant App.app/Restaurant App";
+				PRODUCT_NAME = "Ital In Paradise";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ital In Paradise.app/Ital In Paradise";
 			};
 			name = Debug;
 		};
@@ -509,8 +521,8 @@
 				INFOPLIST_FILE = "Restaurant AppTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Restaurant-AppTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Restaurant App.app/Restaurant App";
+				PRODUCT_NAME = "Ital In Paradise";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ital In Paradise.app/Ital In Paradise";
 			};
 			name = Release;
 		};
@@ -520,7 +532,7 @@
 				INFOPLIST_FILE = "Restaurant AppUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Restaurant-AppUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Ital In Paradise";
 				TEST_TARGET_NAME = "Restaurant App";
 			};
 			name = Debug;
@@ -531,7 +543,7 @@
 				INFOPLIST_FILE = "Restaurant AppUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ital-in-paradise.Restaurant-AppUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Ital In Paradise";
 				TEST_TARGET_NAME = "Restaurant App";
 			};
 			name = Release;
@@ -539,7 +551,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		464AADF81D10C89A00961B45 /* Build configuration list for PBXProject "Restaurant App" */ = {
+		464AADF81D10C89A00961B45 /* Build configuration list for PBXProject "Ital In Paradise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				464AAE251D10C89A00961B45 /* Debug */,
@@ -548,7 +560,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		464AAE271D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Restaurant App" */ = {
+		464AAE271D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Ital In Paradise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				464AAE281D10C89A00961B45 /* Debug */,
@@ -557,7 +569,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		464AAE2A1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Restaurant AppTests" */ = {
+		464AAE2A1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Ital In ParadiseTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				464AAE2B1D10C89A00961B45 /* Debug */,
@@ -566,7 +578,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		464AAE2D1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Restaurant AppUITests" */ = {
+		464AAE2D1D10C89A00961B45 /* Build configuration list for PBXNativeTarget "Ital In ParadiseUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				464AAE2E1D10C89A00961B45 /* Debug */,
