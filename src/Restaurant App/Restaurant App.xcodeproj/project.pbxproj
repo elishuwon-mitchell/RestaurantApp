@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4609C2491D16ED84009DBE10 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4609C2481D16ED84009DBE10 /* ThirdViewController.swift */; };
+		4609C24B1D16EF82009DBE10 /* SideDish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4609C24A1D16EF82009DBE10 /* SideDish.swift */; };
+		4609C24D1D16F6D7009DBE10 /* SideDishTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4609C24C1D16F6D7009DBE10 /* SideDishTableViewCell.swift */; };
+		4609C24F1D16FD6E009DBE10 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4609C24E1D16FD6E009DBE10 /* FourthViewController.swift */; };
+		4609C2511D16FFA9009DBE10 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4609C2501D16FFA9009DBE10 /* FifthViewController.swift */; };
+		4609C2531D171C95009DBE10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4609C2521D171C95009DBE10 /* Assets.xcassets */; };
 		460F9B931D12368D00EBACB0 /* SideMenuTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460F9B921D12368D00EBACB0 /* SideMenuTabBarController.swift */; };
 		460F9B951D123B3800EBACB0 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460F9B941D123B3800EBACB0 /* AboutUsViewController.swift */; };
 		460F9B971D12432F00EBACB0 /* MiscellaneousViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460F9B961D12432F00EBACB0 /* MiscellaneousViewController.swift */; };
@@ -14,7 +20,6 @@
 		464AAE031D10C89A00961B45 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464AAE021D10C89A00961B45 /* FirstViewController.swift */; };
 		464AAE051D10C89A00961B45 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464AAE041D10C89A00961B45 /* SecondViewController.swift */; };
 		464AAE081D10C89A00961B45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 464AAE061D10C89A00961B45 /* Main.storyboard */; };
-		464AAE0A1D10C89A00961B45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464AAE091D10C89A00961B45 /* Assets.xcassets */; };
 		464AAE0D1D10C89A00961B45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 464AAE0B1D10C89A00961B45 /* LaunchScreen.storyboard */; };
 		464AAE181D10C89A00961B45 /* Restaurant_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464AAE171D10C89A00961B45 /* Restaurant_AppTests.swift */; };
 		464AAE231D10C89A00961B45 /* Restaurant_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464AAE221D10C89A00961B45 /* Restaurant_AppUITests.swift */; };
@@ -42,6 +47,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4609C2481D16ED84009DBE10 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		4609C24A1D16EF82009DBE10 /* SideDish.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideDish.swift; sourceTree = "<group>"; };
+		4609C24C1D16F6D7009DBE10 /* SideDishTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideDishTableViewCell.swift; sourceTree = "<group>"; };
+		4609C24E1D16FD6E009DBE10 /* FourthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		4609C2501D16FFA9009DBE10 /* FifthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		4609C2521D171C95009DBE10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		460F9B921D12368D00EBACB0 /* SideMenuTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenuTabBarController.swift; sourceTree = "<group>"; };
 		460F9B941D123B3800EBACB0 /* AboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 		460F9B961D12432F00EBACB0 /* MiscellaneousViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiscellaneousViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +61,6 @@
 		464AAE021D10C89A00961B45 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		464AAE041D10C89A00961B45 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		464AAE071D10C89A00961B45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		464AAE091D10C89A00961B45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		464AAE0C1D10C89A00961B45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		464AAE0E1D10C89A00961B45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		464AAE131D10C89A00961B45 /* Restaurant AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Restaurant AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -118,16 +128,21 @@
 				46EC7D5F1D122F8600615F96 /* Supporting Files */,
 				464AAE001D10C89A00961B45 /* AppDelegate.swift */,
 				464AAE381D10DDAB00961B45 /* Dish.swift */,
+				4609C24A1D16EF82009DBE10 /* SideDish.swift */,
 				464AAE021D10C89A00961B45 /* FirstViewController.swift */,
 				464AAE041D10C89A00961B45 /* SecondViewController.swift */,
+				4609C2481D16ED84009DBE10 /* ThirdViewController.swift */,
+				4609C24E1D16FD6E009DBE10 /* FourthViewController.swift */,
+				4609C2501D16FFA9009DBE10 /* FifthViewController.swift */,
 				464AAE3A1D11026F00961B45 /* MenuItemTableViewCell.swift */,
+				4609C24C1D16F6D7009DBE10 /* SideDishTableViewCell.swift */,
 				460F9B941D123B3800EBACB0 /* AboutUsViewController.swift */,
 				460F9B921D12368D00EBACB0 /* SideMenuTabBarController.swift */,
 				460F9B961D12432F00EBACB0 /* MiscellaneousViewController.swift */,
 				464AAE061D10C89A00961B45 /* Main.storyboard */,
 				464AAE0B1D10C89A00961B45 /* LaunchScreen.storyboard */,
-				464AAE091D10C89A00961B45 /* Assets.xcassets */,
 				464AAE0E1D10C89A00961B45 /* Info.plist */,
+				4609C2521D171C95009DBE10 /* Assets.xcassets */,
 				464AAE301D10CBDA00961B45 /* Images.xcassets */,
 			);
 			path = "Restaurant App";
@@ -267,7 +282,7 @@
 			files = (
 				464AAE0D1D10C89A00961B45 /* LaunchScreen.storyboard in Resources */,
 				464AAE311D10CBDA00961B45 /* Images.xcassets in Resources */,
-				464AAE0A1D10C89A00961B45 /* Assets.xcassets in Resources */,
+				4609C2531D171C95009DBE10 /* Assets.xcassets in Resources */,
 				464AAE081D10C89A00961B45 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -295,8 +310,13 @@
 			files = (
 				46EC7D631D122FBC00615F96 /* SWRevealViewController.m in Sources */,
 				460F9B951D123B3800EBACB0 /* AboutUsViewController.swift in Sources */,
+				4609C2491D16ED84009DBE10 /* ThirdViewController.swift in Sources */,
 				464AAE051D10C89A00961B45 /* SecondViewController.swift in Sources */,
+				4609C24B1D16EF82009DBE10 /* SideDish.swift in Sources */,
+				4609C24F1D16FD6E009DBE10 /* FourthViewController.swift in Sources */,
+				4609C2511D16FFA9009DBE10 /* FifthViewController.swift in Sources */,
 				460F9B931D12368D00EBACB0 /* SideMenuTabBarController.swift in Sources */,
+				4609C24D1D16F6D7009DBE10 /* SideDishTableViewCell.swift in Sources */,
 				460F9B971D12432F00EBACB0 /* MiscellaneousViewController.swift in Sources */,
 				464AAE391D10DDAC00961B45 /* Dish.swift in Sources */,
 				464AAE3B1D11026F00961B45 /* MenuItemTableViewCell.swift in Sources */,
@@ -444,7 +464,6 @@
 		464AAE281D10C89A00961B45 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Restaurant App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
@@ -460,7 +479,6 @@
 		464AAE291D10C89A00961B45 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Restaurant App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;

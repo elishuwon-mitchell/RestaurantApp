@@ -26,7 +26,7 @@ class FirstViewController: UIViewController, UITextFieldDelegate, UITableViewDat
     }
     
     func insertDishes(){
-        
+        dishArr.removeAll();
         let dish1 = Dish(
             day: "Monday",
             photo: UIImage(named: "mondayDish"),
